@@ -2,8 +2,9 @@
 -- |
 -- Module      :  Data.XML.DTD.Types
 -- Copyright   :  Suite Solutions Ltd., Israel 2011
+--                (c) 2014 Montez Fitzpatrick
 --
--- Maintainer  :  Yitzchak Gale <gale@sefer.org>
+-- Maintainer  :  Montez Fitzpatrick <montezf@gmail.com>
 -- Portability :  portable
 --
 -- This module provides types to represent an XML Document Type
